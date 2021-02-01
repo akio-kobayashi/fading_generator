@@ -309,7 +309,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>2</value>
     </param>
     <param>
       <key>type</key>
@@ -317,7 +317,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(392, 420)</value>
+      <value>(392, 484)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -353,7 +353,7 @@
     </param>
     <param>
       <key>samp_rate</key>
-      <value>samp_rate</value>
+      <value>samp_rate*20</value>
     </param>
     <param>
       <key>width</key>
@@ -872,7 +872,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(608, 476)</value>
+      <value>(760, 476)</value>
     </param>
     <param>
       <key>_rotation</key>
